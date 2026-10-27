@@ -1,5 +1,0 @@
-- [ ] ### Add the possibility for a global .gitignore filtering file
-- [ ] ### Refactor the code
-- [ ] ### Release for all targets
-- [ ] ### Code an installer
-- [ ] ### Updade README.md to reflect these changes, specially to explain the automatic gitignore functionallity

@@ -1,6 +1,6 @@
 # catlr
 
-**catlr** is a powerful, cross-platform command-line utility designed to list directory structures and print file contents recursively, specifically tailored for code auditing and project reviews. It intelligently falls back to native C++ implementations if preferred external tools (bat, tree, etc.) are unavailable, ensuring functionality on any system (Linux, macOS, Windows).
+**catlr** is a powerful, POSIX command-line utility designed to list directory structures and print file contents recursively, specifically tailored for code auditing and project reviews. It intelligently falls back to native C++ implementations if preferred external tools (bat, tree, etc.) are unavailable, ensuring functionality on any system (Linux, macOS, Windows).
 
 ## Features
 
